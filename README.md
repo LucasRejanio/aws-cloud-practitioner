@@ -41,8 +41,8 @@ O AWS CLI permite que você automatize e repita a implantação de recursos AWS 
 
 ## Principais serviços AWS
 
-### ec2 (Elastic Compute cloud) 
-Computer refere-se aos recursos que estão sendo apresentados, cloud se refere ao fato de que estes são  recursos de computação hospedados na nuvem e Elastic se refere ao fato de que, se configurado corretamente você pode aumentar ou diminuir a quantidade de servidores exigido por um aplicativo automaticamente de acordo com as demandas atuais dessa aplicação
+### ec2 (Elastic Compute cloud)
+É um serviço Web que disponibiliza capacidade computacional segura e redimensionável na nuvem. Computer refere-se aos recursos que estão sendo apresentados, cloud se refere ao fato de que estes são  recursos de computação hospedados na nuvem e Elastic se refere ao fato de que, se configurado corretamente você pode aumentar ou diminuir a quantidade de servidores exigido por um aplicativo automaticamente de acordo com as demandas atuais dessa aplicação
 
 ### EBS (Elastic Block Store)
 Os volumes EBS podem ser usados como uma unidade de armazenamento para suas instâncias ec2, então sempre que você acha que precisa de espaço em disco para suas instâncias em execução na AWS, você pode pensar sobre elas. Esses volumes podem ser discos rígidos ou dispositivos SSD. O EBS permite que você aumente ou mude o tipo do seu armazenamento, isso significa que você pode mudar de disco rígido para SSD. 
