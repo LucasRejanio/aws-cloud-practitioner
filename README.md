@@ -1,4 +1,4 @@
-# AWS-Cloud-Practitioner-Certificate 
+# AWS Cloud practitioner certificate 
 Nesse repositório colocarei uma serie de anotações relevantes para certificação da Amazon Cloud Practitioner. Todas as anotações são baseadas no AWS Training and Certificate disponibilizado no próprio site da Amazon. 
 
 Link do trainamento: https://www.aws.training/Details/Curriculum?id=27076
