@@ -1,3 +1,5 @@
+![AWS CodeBuild Badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiT3NmZUNFTHh6dTZYUExUMWhMNVNjc05TbHUxYXdaakd5Vk1iRUNmV0RMZ2pyajlZRWdqUmtHY3hvUmZUQTlLYXpISmFUa2dmVmEyYlhYcEZKcU1hdjNZPSIsIml2UGFyYW1ldGVyU3BlYyI6ImZKcDNpL3JJLzZtRnBRWUIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 # AWS Cloud practitioner certificate 
 Nesse repositório colocarei uma serie de anotações relevantes para certificação da Amazon Cloud Practitioner. Todas as anotações são baseadas no AWS Training and Certificate disponibilizado no próprio site da Amazon. 
 
